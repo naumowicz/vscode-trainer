@@ -1,0 +1,117 @@
+{
+	"shortcuts": [
+		{
+			"question": "How to open VS Code from command line?",
+			"shortcut": [
+				"code .",
+				"code somefile.js"
+			],
+			"tip": "Remember to add binary to PATH on Linux or Mac."
+		},
+		{
+			"question": "Opening command palette",
+			"shortcut": [
+				"Ctrl + Shift + P",
+				"F1",
+				"Ctrl + P then >"
+			]
+		},
+		{
+			"question": "Move to symbols in opened file",
+			"shortcut": [
+				"Ctrl + P then @",
+				"Ctrl + Shift + ."
+			]
+		},
+		{
+			"question": "Global symbol search",
+			"shortcut": [
+				"Ctrl + P then #"
+			]
+		},
+		{
+			"question": "Go to line",
+			"shortcut": [
+				"Ctrl + G then type number of line"
+			]
+		},
+		{
+			"question": "Set up multiple cursors",
+			"shortcut": [
+				"Alt + Click"
+			]
+		},
+		{
+			"question": "Cut the line",
+			"shortcut": [
+				"Ctrl + X"
+			]
+		},
+		{
+			"question": "Move the line",
+			"shortcut": [
+				"Alt + ↑ / ↓"
+			]
+		},
+		{
+			"question": "Copy line and move it",
+			"shortcut": [
+				"Alt + Shift + ↑ / ↓"
+			]
+		},
+		{
+			"question": "Comment the line",
+			"shortcut": [
+				"Ctrl + /"
+			]
+		},
+		{
+			"question": "Add docummentation",
+			"shortcut": [
+				"Type /** and hit Enter"
+			]
+		},
+		{
+			"question": "Format code",
+			"shortcut": [
+				"Alt + Shift + F"
+			]
+		},
+		{
+			"question": "Toggle terminal",
+			"shortcut": [
+				"Ctrl + `"
+			]
+		},
+		{
+			"question": "Find all references",
+			"shortcut": [
+				"Shift + Alt + F12"
+			]
+		},
+		{
+			"question": "Column selection",
+			"shortcut": [
+				"Middle mouse button"
+			]
+		},
+		{
+			"question": "Select all occurences of current word",
+			"shortcut": [
+				"Ctrl + F2"
+			]
+		},
+		{
+			"question": "Close editor",
+			"shortcut": [
+				"Ctrl + W"
+			]
+		},
+		{
+			"question": "Add selection to next Find match",
+			"shortcut": [
+				"Ctrl + D"
+			]
+		}
+	]
+}
